@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: #008080; 
+}
+
+a, button {
+  font-family: monospace;
+  font-size: 30px;
+  text-decoration: none;
+  padding: 25px;
+  color: white; }
+
+.controls {
+  position: relative;
+  top: 40vh; }
+
+.stopwatch {
+  font-family: monospace;
+  position: relative;
+  top: 10px;
+  font-size: 150px;
+  color: #C8FFF5;
+  width: auto; 
+}
+  
